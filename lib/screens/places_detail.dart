@@ -3,7 +3,7 @@ import 'package:favorite_places/screens/map.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
-const apiKey = 'AIzaSyBnTL3hrwlooFZWF6ZPUi0x-mge7rhMhEs';
+//const apiKey = Provide a google maps api key;
 
 class PlaceDetailsScreen extends StatelessWidget{
   const PlaceDetailsScreen({super.key, required this.place});
