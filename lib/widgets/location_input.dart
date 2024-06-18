@@ -6,7 +6,7 @@ import 'package:location/location.dart';
 import 'package:http/http.dart' as http;
 import 'package:favorite_places/models/place.dart';
 
-const API_KEY = 'AIzaSyBnTL3hrwlooFZWF6ZPUi0x-mge7rhMhEs';
+//const API_KEY = Use your own google maps api key;
 
 class LocationInput extends StatefulWidget{
   const LocationInput({super.key, required this.onSelectLocation});
